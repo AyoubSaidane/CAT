@@ -2,6 +2,10 @@
 
 CAT is a system designed to automate computer interactions using advanced AI vision and natural language processing. The system operates in two parts: a GPU-powered server component (OmniParser) for AI processing, and a local component (LocalExecutor) for GUI automation.
 
+## Demo Video
+
+https://github.com/user-attachments/assets/93876d92-0cf7-4dab-b93f-f3acf40d37b2
+
 ## Software Prerequisites
 Before starting this project you will need to install these tools:
 1. [Conda](https://docs.anaconda.com/miniconda/install/#quick-command-line-install)
