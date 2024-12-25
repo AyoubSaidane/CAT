@@ -1,0 +1,11 @@
+__pycache__
+TaskExecutor
+TaskBuilder/weights/convert_safetensor_to_pt.py
+TaskBuilder/__pycache__
+TaskBuilder/download.ps1
+TaskBuilder/download.sh
+
+.gitignore
+client.py
+README.md
+

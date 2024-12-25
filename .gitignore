@@ -1,0 +1,6 @@
+TaskBuilder/weights/icon_caption_florence/
+TaskBuilder/weights/icon_detect/
+TaskBuilder/__pycache__/
+__pycache__/
+TaskExecutor/__pycache__/
+

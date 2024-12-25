@@ -16,3 +16,11 @@ timm
 einops==0.8.0
 paddlepaddle
 paddleocr
+pyyaml
+Pillow
+requests
+fastapi
+uvicorn
+starlette
+python-dotenv
+anthropic

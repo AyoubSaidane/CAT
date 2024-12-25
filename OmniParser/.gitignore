@@ -1,5 +1,0 @@
-weights/icon_caption_blip2
-weights/icon_caption_florence
-weights/icon_detect/
-.gradio
-__pycache__/
